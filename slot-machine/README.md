@@ -14,3 +14,7 @@ A simple Python command-line slot machine game.
 - Game loops
 - Conditional logic
 - Execution control using `if __name__ == "__main__"`
+
+## How to Run
+```bash
+python bank.py
