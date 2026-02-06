@@ -13,3 +13,7 @@ A simple Python command-line banking application.
 - Input validation
 - State management
 - Execution control using `if __name__ == "__main__"`
+
+## How to Run
+```bash
+python bank.py
