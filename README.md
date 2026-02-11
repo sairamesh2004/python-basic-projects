@@ -1,15 +1,13 @@
 # Python Basic Projects
 
 This repository contains a collection of beginner-to-intermediate Python
-command-line projects built to strengthen core programming fundamentals.
+command-line projects created to strengthen core programming fundamentals.
 
-The focus of these projects is on:
-- Control flow and loops
-- Functions and modular design
-- Input validation and error handling
-- State management
-- Randomness and basic game logic
-- Proper execution control using `if __name__ == "__main__"`
+The goal of these projects is to practice writing clean, structured Python
+code before progressing to more advanced topics such as object-oriented
+programming, file handling, APIs, and backend frameworks.
+
+---
 
 ## Projects Included
 
@@ -19,31 +17,51 @@ A menu-driven banking system that allows users to:
 - Deposit money
 - Withdraw money with validation
 
-**Concepts used:** functions, loops, global state handling, input validation.
+**Concepts practiced:** functions, loops, input validation, state management,
+and execution control using `if __name__ == "__main__"`.
 
 ---
 
 ### 2. Slot Machine Game
-A simple Python slot machine game where users can:
+A Python command-line slot machine game where users can:
 - Place bets
 - Spin random symbols
 - Win or lose based on matching patterns
 
-**Concepts used:** randomness, game loops, conditional logic, balance tracking.
+**Concepts practiced:** randomness, conditional logic, game loops, and balance
+tracking.
+
+---
+
+### 3. Hangman Game
+A command-line implementation of the classic Hangman game featuring:
+- Random word selection
+- ASCII-based hangman display
+- Input validation
+- Replay support
+
+**Concepts practiced:** functions, sets, dictionaries, nested loops, and
+game state management.
+
+---
+
+### 4. Simple Substitution Cipher
+A basic character substitution cipher implemented for learning purposes to
+demonstrate reversible character mapping.
+
+**Concepts practiced:** list manipulation, indexing, randomization,
+and encoding/decoding logic.
+
+> Note: This is **not secure encryption** and is intended only for
+> educational purposes.
 
 ---
 
 ## Purpose
-These projects were created as part of continuous practice to build a strong
-foundation in Python programming before moving on to more advanced topics
-such as object-oriented design, file persistence, APIs, and backend frameworks.
 
-## Future Improvements
-- Refactor projects using OOP principles
-- Add file-based persistence
-- Improve input validation
-- Write unit tests
+These projects were built as part of continuous practice to develop a strong
+foundation in Python programming before moving on to intermediate and
+advanced-level system design.
 
----
-
-> Note: These projects are intentionally kept simple and focused on fundamentals.
+Each project contains its own README file with additional details and
+instructions on how to run it.
